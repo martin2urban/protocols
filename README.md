@@ -1,2 +1,2 @@
 # protocols
-Wet lab mol bio protocols
+Wet lab molbio protocols
